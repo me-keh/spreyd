@@ -1,17 +1,18 @@
 
 
 #title: MEKEH 
-title: . 
+title: null 
 #email: "no"
-description: Tempora mutantur et nos mutamur in illis
->- 
+description: >- 
+Tempora mutantur et nos mutamur in illis
+ 
 # this means to ignore newlines until "baseurl:"
   
   
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "mekeh.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://mekeh.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: twitter
 #github_username:  github
 
