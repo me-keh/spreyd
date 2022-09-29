@@ -1,16 +1,17 @@
 
 
-title: MEKEH 
+#title: MEKEH 
+title:  
 #email: "no"
 description: >- # this means to ignore newlines until "baseurl:"
-  footer / description would go here
+  
   
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: twitter
-github_username:  github
+#twitter_username: twitter
+#github_username:  github
 
 # Build settings
 theme: minima

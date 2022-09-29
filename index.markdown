@@ -2,4 +2,5 @@
 layout: home
 ---
 
-some text
+*Nothing to see here.*
+![]({{ 'flobart.jpg' | relative_url }})
