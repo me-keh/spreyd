@@ -2,7 +2,7 @@
 
 #title: MEKEH 
 title: MEKEH
-author: NULL
+author: us
 
   #email: *@domain.com
 #email: "no"
@@ -14,7 +14,7 @@ description: Tempora mutantur et nos mutamur in illis
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mekeh.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mekeh.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: twitter
 #github_username:  github
 
