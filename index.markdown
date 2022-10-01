@@ -3,4 +3,4 @@ layout: home
 ---
 
 *Nothing to see here.*
-![]({{ 'flobart.jpg' | relative_url }})
+![]({{ 'saghro-mars.jpg' | relative_url }})
