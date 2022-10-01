@@ -3,7 +3,6 @@ permalink: "/info/"
 layout: page
 ---
 
-# Wedding info
 
 **Ceremony**
 * 🏛️Mairie du 10e : [Maps](https://goo.gl/maps/3NCW694jz3fv4mjJ6) - [Waze](https://www.waze.com/en/live-map/directions/fr/idf/paris/mairie-du-10eme-arrondissement?place=ChIJg1YM0Q5u5kcRXdem_tWJycg) 
