@@ -9,7 +9,7 @@ layout: page
 * 📆Octobrer 22, 10:20am - save to your [calendar]({{ 'MEKH-event.ics' | relative_url }})  
 
 **Brunch**
-* 🍸TBC
+* 🍸TBD
 
 **Accommodations**
 * [Okko Gare de l'Est](https://www.booking.com/hotel/fr/okko-hotels-paris-gare-de-l-39-est.fr.html) - 11min walk - 150€/night
