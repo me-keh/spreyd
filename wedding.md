@@ -10,3 +10,8 @@ layout: page
 
 **Brunch**
 * 🍸TBC
+
+**Accommodations**
+* [Okko Gare de l'Est] (https://www.booking.com/hotel/fr/okko-hotels-paris-gare-de-l-39-est.fr.html) - 11min walk - 150€/night
+* [Joe] (https://www.booking.com/Share-xXxEbuX) - 15min walk or métro - 200€/night
+*  
