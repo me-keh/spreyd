@@ -15,8 +15,11 @@ layout: page
 ![Le Sanae - façade]({{'/assets/LeSanae-small.png' | relative_url }})
 
 **Cocktail / diner**
+
+If you want, you can join us later in the evening @ TBD 
 * 📍TBD 
 * ⏲ ~20h - 23h
+* 👗Dress code : street cred, or whatever you like :)
 
 
 **Pictures, videos**
@@ -24,7 +27,7 @@ layout: page
 You can share your photos and videos with us on WA or Telegram. Send us a Drive, DropBox or OneDrive link if you want to keep the quality / resolution.
 We suggest you take vertical videos, it will make it easier to edit a nice clip :)
 
-![Rotate]({{/assets/getVertical-small.png' | relative_url }})
+![Rotate]({{'/assets/getVertical-small.png' | relative_url }})
 
 **Accommodations**
 * [Okko Gare de l'Est](https://www.booking.com/hotel/fr/okko-hotels-paris-gare-de-l-39-est.fr.html) - 11min walk - 150€/night
