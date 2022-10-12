@@ -20,6 +20,7 @@ layout: page
 
 
 **Pictures, videos**
+
 You can share your photos and videos with us on WA or Telegram. Send us a Drive, DropBox or OneDrive link if you want to keep the quality / resolution.
 We suggest you take vertical videos, it will make it easier to edit a nice clip :)
 
