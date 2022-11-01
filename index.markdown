@@ -1,6 +1,7 @@
 ---
 layout: home
+title: SPREYD
 ---
 
-*Nothing to see here.*
-![]({{ 'saghro-mars.jpg' | relative_url }})
+SPREYD is a team of data-driven consultants.
+This website is under construction. Contact us contact@spreyd.com
