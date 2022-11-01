@@ -1,20 +1,20 @@
 
 
-#title: MEKEH 
-title: MEKEH
+
+title: SPREYD
 author: _
 
   #email: *@domain.com
 #email: "no"
-description: Quidquid latine dictum sit, altum sonatur
+description: a data-driven company
  
-# this means to ignore newlines until "baseurl:"
+
   
   
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mekeh.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://spreyd.com" # the base hostname & protocol for your site, 
 #twitter_username: twitter
 #github_username:  github
 
