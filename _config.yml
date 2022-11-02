@@ -2,17 +2,8 @@
 
 
 title: SPREYD
+description: a data-driven company.
 author: _
-
-  #email: *@domain.com
-#email: "no"
-description: a data-driven company
- 
-
-  
-  
-
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spreyd.com" # the base hostname & protocol for your site, 
 #twitter_username: twitter
