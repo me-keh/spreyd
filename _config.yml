@@ -3,8 +3,8 @@
 
 title: SPREYD
 description: a data-driven company.
-author: _
-baseurl: "" # the subpath of your site, e.g. /blog
+# author: _
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spreyd.com" # the base hostname & protocol for your site, 
 #twitter_username: twitter
 #github_username:  github
