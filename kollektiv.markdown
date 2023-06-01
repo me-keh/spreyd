@@ -22,7 +22,7 @@ At the Kollektiv D., we firmly believe:
  
 The Kollektiv D. embraces these principles and aims to empower individuals who share this strong conviction.
 
-# Our duties
+# Duties
 At Kollektiv D., we only do two things:
 
 **Build a strong commercial approach**
