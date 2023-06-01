@@ -39,3 +39,10 @@ We reject the superficial application of data.
 We want to change the narrative and advocate for our vision of data-spreading. 
 We do this by creating impactful content, lobbying for our cause, and leading the way with our ideas. 
 Our goal is to shift the way people think about data skills.
+
+# Members
+### Join the Kollektiv D.
+If you share the Kollektiv D. conviction, if you are willing to participate to the two duties and if you have functional competencies / sectorial understanding paired with data skills, send an e-mail to meryem@spreyd.com
+### Founding Members
+Meryem Elkalai ([REKOLT](rekolt.co))
+Karim El Hajjaji ([REKOLT](rekolt.co))
