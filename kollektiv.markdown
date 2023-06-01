@@ -26,18 +26,29 @@ The Kollektiv D. embraces these principles and aims to empower individuals who s
 At Kollektiv D., we only do two things:
 
 **Build a strong commercial approach**
+
 Without a strong commercial approach, we can be stuck with unsatisfying projects.
+
 Without a strong commercial approach, we are seen as commodities.
+
 Without a strong commercial approach, we leave value to intermediaries who can sell.
+
 We want to take control over our careers and maximize our potential.
+
 To succeed, we need to be able to sell. Sell our profiles, sell projects. 
+
 We will hunt together. Share our networks. Elaborate projects.
 
 **Impose our vision**
+
 We are determined to challenge the dominant discourse of "data sprinkling." 
+
 We reject the superficial application of data.
+
 We want to change the narrative and advocate for our vision of data-spreading. 
+
 We do this by creating impactful content, lobbying for our cause, and leading the way with our ideas. 
+
 Our goal is to shift the way people think about data skills.
 
 # **Members**
