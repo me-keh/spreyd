@@ -18,4 +18,4 @@ SPREYD is pro data-spreading.
 
 
 
-This website is under construction. Contact us mailto:contact@spreyd.com
+This website is under construction. [Contact us](mailto:contact@spreyd.com)
