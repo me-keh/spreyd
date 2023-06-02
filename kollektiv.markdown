@@ -57,4 +57,4 @@ If you share the Kollektiv D. conviction, if you are willing to participate to t
 
 **Founding Members**
 [Meryem Elkalai](https://www.linkedin.com/in/ekmeryem/) ([REKOLT](https://www.rekolt.co/))
-Karim El Hajjaji ([REKOLT](https://www.rekolt.co/))
+[Karim El Hajjaji](https://www.linkedin.com/in/karimeh/) ([REKOLT](https://www.rekolt.co/))
