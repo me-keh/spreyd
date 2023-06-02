@@ -56,5 +56,5 @@ Our goal is to shift the way people think about data skills.
 If you share the Kollektiv D. conviction, if you are willing to participate to the two duties and if you have functional competencies / sectorial understanding paired with data skills, [send an e-mail](mailto:meryem@spreyd.com?subject=[Kollektiv D.])
 
 **Founding Members**
-Meryem Elkalai ([REKOLT](https://www.rekolt.co/))
+[Meryem Elkalai](https://www.linkedin.com/in/ekmeryem/) ([REKOLT](https://www.rekolt.co/))
 Karim El Hajjaji ([REKOLT](https://www.rekolt.co/))
