@@ -1,5 +1,5 @@
 ---
 layout: page
-permalink: "/FieldForce/"
+permalink: "/fieldforce/"
 title: "Enabling Field Sales Force"
 ---
