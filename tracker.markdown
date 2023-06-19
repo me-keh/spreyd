@@ -24,3 +24,4 @@ Projects: 7048 job offers for freelancers in IT / Tech / Data ![Type of projects
 
 ## Remontada?
 
+![Number of projects posted per week](/nbmissions_week.png)
