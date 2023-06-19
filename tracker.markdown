@@ -48,3 +48,10 @@ Freelancing is still very centralized around Paris and its region:
 - followed by Lille and Hauts-de-France region with 11% of the projects
 - and then Lyon and Auvergne-Rhône-Alpes with 7%
 
+Only 5.5% of the projects can be done **full remote**, and in average the rate is 4% lower for a full remote project!
+
+## How long are the projects?
+This analysis doesn't take into account the specificity of each job, but in average and in this short period of time, the projects' length is around 100 to 120 days.
+
+
+![Projects Duration](/duration.png)
