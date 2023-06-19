@@ -61,4 +61,4 @@ That's all for today :)
 Next steps: 
 - Update the data every week
 - Do some NLP on the job descriptions and titles to identify the most popular technologies and positions and their evolution
-** If you have any comments or idea, send me a message at [send an e-mail](mailto:meryem@spreyd.com?subject=[Freelance IT Tracker])
+** If you have any comments or ideas, send me a message at (mailto:meryem@spreyd.com?subject=[Freelance IT Tracker])
