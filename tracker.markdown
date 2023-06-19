@@ -23,5 +23,17 @@ Date: From May 2023
 Projects: 7048 job offers for freelancers in IT / Tech / Data ![Type of projects](/wordcloud_projects.png)
 
 ## Remontada?
-
+After a very shy month of May that demotivated us all, the week of June 12th marked a strong resurgence with 2.5 times more assignments compared to the previous week.
 ![Number of projects posted per week](/nbmissions_week.png)
+
+## And the rates?
+Since we don't have data before May 2023 and the evolutions can be observed on the yearly level, we can't conclude that much on the rates.
+*We are working on finding more historical data"
+![Rates' evolutions](/rates.png)
+In the actual market, you "only" gain 30% when you go from junior to expert, which is less than 3% per additional year of experience.
+![Rates per experience](/rate_experience.png)
+
+## Who do they want?
+55% of the last 6 weeks projects are for freelancers with 5 - 10 years of experience, followed by the 2 - 5 years of experience with 33% of the projects.
+If you are a junior, you only have access to 5% of the projects. When you are an expert, you get 8% of the demand.
+![Demand per experience](/experience_demand.png)
