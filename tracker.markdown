@@ -13,5 +13,6 @@ And what about remote job offers? Have they decreased even more compared to pre-
 Can we blame intermediaries for this situation? 
 Is the market overcrowded with individuals leaving their jobs and taking advantage of "chômage"?
 
-The goal of this page is to provide you with an overview of the demand for IT freelancers in France. It may not fully reflect the market, as it is based on the information we could gather from various sources. 
+**The goal of this page is to provide you with an overview of the demand for IT freelancers in France. It may not fully reflect the market, as it is based on the information we could gather from various sources.**
 Now, let's examine the extent of the damage, who is affected, and what the current demand looks like.
+
