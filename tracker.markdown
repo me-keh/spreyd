@@ -58,6 +58,7 @@ This analysis doesn't take into account the specificity of each job, but in aver
 
 ## Backlog of analysis
 That's all for today :)
+Next steps: 
 - Update the data every week
-- Do some NLP on the job description and title to identify the most popular technologies and positions and their evolution
-** If you have any comment or idea, send me a message at [send an e-mail](mailto:meryem@spreyd.com?subject=[Freelance IT Tracker])
+- Do some NLP on the job descriptions and titles to identify the most popular technologies and positions and their evolution
+** If you have any comments or idea, send me a message at [send an e-mail](mailto:meryem@spreyd.com?subject=[Freelance IT Tracker])
