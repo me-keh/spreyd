@@ -19,6 +19,7 @@ Now, let's examine the extent of the damage, who is affected, and what the curre
 
 ## Perimeter
 Date: From May 2023
-Projects: ![Type of projects](/wordcloud_projects.png)
+Projects: 7048 job offers for freelancers in IT / Tech / Data ![Type of projects](/wordcloud_projects.png)
 
+##
 
