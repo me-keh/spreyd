@@ -7,6 +7,7 @@ title: "Tracker"
 *Last update: 2023-06-18*
 > Get weekly updates by joining the [telegram
 > channel](https://t.me/+3y9PJaF335UxYTg0)
+
 ## Am I the only freelancer suffering from a decreasing demand?
 
 Are you no longer receiving propositions as frequently as before? 
