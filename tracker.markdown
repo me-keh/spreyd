@@ -3,6 +3,7 @@ layout: page
 permalink: "/tracker-freelance-it/"
 title: "Tracker"
 ---
+# Demand Tracker of IT projects for freelancers, France
 *Last update: 2023-06-18*
 > Get weekly updates by joining the [telegram
 > channel](https://t.me/+3y9PJaF335UxYTg0)
