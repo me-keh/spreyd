@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: "/tracker-freelance-it/"
-title: "Demand Tracker of IT Projects in France for Freelancers"
+title: "Tracker"
 ---
 *Last update: 2023-06-18*
 ## Am I the only freelancer suffering from a decreasing demand?
