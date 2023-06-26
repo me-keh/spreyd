@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/tracker-freelance-it//"
+permalink: "/tracker-freelance-it/"
 title: "Tracker"
 ---
 # Demand Tracker of IT projects for freelancers, France
