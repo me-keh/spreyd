@@ -35,7 +35,7 @@ After a very shy month of May that demotivated us all, the week of June 12th mar
 Since we don't have data before May 2023 and the evolutions can be observed on the yearly level, we can't conclude that much on the rates. But we actualized the chart with the latest data.
 *We are working on finding more historical data"
 
-![Rates' evolutions](/rates_week_20230626)
+![Rates' evolutions](/rates_week_20230626.png)
 In the actual market, you "only" gain 30% when you go from junior to expert, which is less than 3% per additional year of experience.
 Nothing new since last week, except the senior roles (>10 years of experience) have gained 3 euros in max rate.
 
