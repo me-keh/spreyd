@@ -15,11 +15,11 @@ plugins:
   - jekyll-admin
   - jekyll-feed
 
-collections_dir: _includes/img
-collections_dir: _includes
+includes_dir: _includes/img
+includes_dir: _includes
 
-exclude:
-  - _includes/img
+#exclude:
+#  - _includes/img
   
 jekyll_admin:
   hidden_links:
