@@ -24,7 +24,7 @@ Now, let's examine the extent of the damage, who is affected, and what the curre
 ## Perimeter
 Date: From May 2023
 
-Projects: 7048 job offers for freelancers in IT / Tech / Data ![Type of projects](/_includes/img/wordcloud_projects.png)
+Projects: 7048 job offers for freelancers in IT / Tech / Data ![Type of projects](_includes/img/wordcloud_projects.png)
 
 ## Remontada?
 After a very shy month of May that demotivated us all, the week of June 12th marked a strong resurgence with 2.5 times more assignments compared to the previous week.
