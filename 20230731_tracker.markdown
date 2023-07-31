@@ -54,9 +54,9 @@ In average, only 5% of the projects can be done **full remote**. Time to conside
 
 There's an interesting phenomenon to highlight, but not sure if it's a coincidence or if it's structural: before the last week of June, the average rate for full remote projects used to be lower than for hybrid projects.
 But from that last week of June, there has been a tipping point. Remote projects have been on average better paid than the hybrid ones.
-Will explore later on what are the root causes of this switch? Some specific higher-paid skills? More remote for higher experienced?
+Will explore later on what are the root causes of this switch. Some specific higher-paid skills? More remote for higher experienced?
 
-![Average rate for remote vs. hybrid](/rates_remote_20230731)
+![Average rate for remote vs. hybrid](/rates_remote_20230731.png)
 
 
 
