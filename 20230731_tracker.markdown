@@ -1,0 +1,71 @@
+---
+layout: page
+permalink: "/tracker-20230731/"
+title: "Tracker"
+---
+# Demand Tracker of IT projects for freelancers, France
+*Last update: 2023-07-30*
+> Get weekly updates by joining the [telegram
+> channel](https://t.me/+3y9PJaF335UxYTg0)
+
+## Am I the only freelancer suffering from a decreasing demand?
+
+Are you no longer receiving propositions as frequently as before? 
+Is the client's sole focus securing the lowest rate possible?
+Are projects now shorter in duration?
+And what about remote job offers? Have they decreased even more compared to pre-pandemic times? 
+
+Can we blame intermediaries for this situation? 
+Is the market overcrowded with individuals leaving their jobs and taking advantage of "chômage"?
+
+**The goal of this page is to provide you with an overview of the demand for IT freelancers in France. It may not fully reflect the market, as it is based on the information we could gather from various sources.**
+Now, let's examine the extent of the damage, who is affected, and what the current demand looks like.
+
+## Perimeter
+Date: From May 2023
+
+Projects: 13 810 job offers for freelancers in IT / Tech / Data
+
+## The wilderness
+Summer is definitely here, less projects published, last interviews before the holidays. If you do not have a project for September, time to pick up your phone and call your network.
+
+![Number of projects posted per week](/nbmissions_week_20230731.png)
+
+## And the rates?
+Since we don't have data before May 2023 and usually rates' evolutions can be observed on the yearly level, we can't conclude that much on the rates. But we actualized the chart with the latest data.
+And it's stable as .
+*We are working on finding more historical data"
+
+![Rates' evolutions](/rates_week_20230731.png)
+
+## Who do they want?
+The demand does not seem to have high fluctuations when it comes to the experience wanted for the projects.
+Same proportions, with the demand clearly in the advantage of the 5-10 years of experience.
+
+![Demand per experience](/nbmissions_exp_20230724.png)
+
+## Where do they want them?
+Freelancing is still very centralized around Paris and its region,- 58% of the projects of last week were located in Paris and Île-de-France.
+Overall, the share of projects in Paris and its region has been increasing during the last weeks.
+
+
+In average, only 5% of the projects can be done **full remote**. Time to consider a pied-à-terre in Paris?
+![Demand per remote](/nbmissions_remote_20230731.png)
+
+There's an interesting phenomenon to highlight, but not sure if it's a coincidence or if it's structural: before the last week of June, the average rate for full remote projects used to be lower than for hybrid projects.
+But from that last week of June, there has been a tipping point. Remote projects have been on average better paid than the hybrid ones.
+Will explore later on what are the root causes of this switch? Some specific higher-paid skills? More remote for higher experienced?
+
+![Average rate for remote vs. hybrid](/rates_remote_20230731)
+
+
+
+## Backlog of analysis
+That's all for today :)
+Next steps: 
+- Update the data every week
+- Do some NLP on the job descriptions and titles to identify the most popular technologies and positions and their evolution (I know this one has been in the to do for long now)
+- Maybe add other geographies
+PS: there are some exclusive analysis posted on the [telegram channel](https://t.me/+3y9PJaF335UxYTg0)
+
+If you have any comments or ideas, [send me an e-mail](mailto:meryem@spreyd.com?subject=[Freelance IT Tracker])
