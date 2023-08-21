@@ -1,0 +1,72 @@
+---
+layout: page
+permalink: "/tracker-20230821/"
+title: "Tracker"
+---
+# Demand Tracker of IT projects for freelancers, France
+*Last update: 2023-08-20*
+> Get weekly updates by joining the [telegram
+> channel](https://t.me/+3y9PJaF335UxYTg0)
+
+## Am I the only freelancer suffering from a decreasing demand?
+
+Are you no longer receiving propositions as frequently as before? 
+Is the client's sole focus securing the lowest rate possible?
+Are projects now shorter in duration?
+And what about remote job offers? Have they decreased even more compared to pre-pandemic times? 
+
+Can we blame intermediaries for this situation? 
+Is the market overcrowded with individuals leaving their jobs and taking advantage of "chômage"?
+
+**The goal of this page is to provide you with an overview of the demand for IT freelancers in France. It may not fully reflect the market, as it is based on the information we could gather from various sources.**
+Now, let's examine the extent of the damage, who is affected, and what the current demand looks like.
+
+## Perimeter
+Date: From May 2023
+
+Projects: 15 746 job offers for freelancers in IT / Tech / Data
+
+## The wilderness
+A slowdown in July and mid-August but still in alignment with the previous doomy figures.
+My bad for the 2023-07-31 week figures, I was on holiday and did not automatized my data collection so I guess most of the jobs have expired:(
+
+![Number of projects posted per week](/nbmissions_week_20230821.png)
+
+## And the rates?
+Since we don't have data before May 2023 and usually rates' evolutions can be observed on the yearly level, we can't conclude that much on the rates. But we actualized the chart with the latest data.
+And it's stable...
+Last week, max rate pekaed at 2000 EUR/day for two positions: Data / API Engineer and a PostgreSQL administrator
+
+![Rates' evolutions](/rates_week_20230821.png)
+
+## Who do they want?
+The demand does not seem to have high fluctuations when it comes to the experience wanted for the projects.
+Same proportions, with the demand clearly in the advantage of the 5-10 years of experience.
+You gain between 18% and 32% increase when you go from super junior to super senior in a decade, which is pretty low when compared to the salary increase in permanent positons.
+
+![Demand per experience](/nbmissions_exp_20230821.png)
+
+## Where do they want them?
+Freelancing is still very centralized around Paris and its region,- 56% of the projects of last week were located in Paris and Île-de-France.
+Overall, the share of projects in Paris and its region has been increasing during the last weeks and Paris never sleeps *during summer*?
+
+![Demand per region](/parisidfvsothers_week_20230821.png)
+
+In average, only 5% of the projects can be done **full remote**. But waith what? It definitely drecreased in July and mid-August, except last week it increased to 9% of the projects published.
+Are French recruiters finally listening to the candidates?
+Actually 25% of last week's full remote projects are offers for content writing in several IT domains.
+![Demand per remote](/nbmissions_remote_20230821.png)
+
+
+
+
+
+## Backlog of analysis
+That's all for today :)
+Next steps: 
+- Update the data every week
+- Do some NLP on the job descriptions and titles to identify the most popular technologies and positions and their evolution (I know this one has been in the to do for long now)
+- Maybe add other geographies
+PS: there are some exclusive analysis posted on the [telegram channel](https://t.me/+3y9PJaF335UxYTg0)
+
+If you have any comments or ideas, [send me an e-mail](mailto:meryem@spreyd.com?subject=[Freelance IT Tracker])
