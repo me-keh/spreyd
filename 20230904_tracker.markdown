@@ -62,7 +62,7 @@ Last week I asked if French recruiters were finally listening to the candidates.
 An interesting phenomenon is that average rates are increasingly higher when the project is *remote* than not. If the quality of a freelance is measured by its rate, then this means that the best freelancers are offered more flexibility and are paid for that.
 OR, that the projects with skills that are remote-friendly are higher paid than the others. 
 
-![Rates remote](/ratesremote_week_20230904)
+![Rates remote](/ratesremote_week_20230904.png)
 
 As usual, the lesson is to master your craft and then you can be a diva. Or, if you want remote projects, go for remote skills (I will analyze them some days)
 
