@@ -28,6 +28,7 @@ Date: From May 2023
 Projects: 20 167 job offers for freelancers in IT / Tech / Data
 
 ## Demand evolution
+Demand inreased last week, but the volumes are still low.
 
 ![Number of projects posted per week](/nbmissions_week_20230925.png)
 
@@ -37,19 +38,18 @@ Since we don't have data before May 2023 and usually rates' evolutions can be ob
 ![Rates' evolutions](/rates_week_20230925.png)
 
 ### Top 5 highest paid projects last week
+What is this CLEVA?
 ![top 5 highest paid](/top5paid_week_20230925.png)
 
 ## Experience
 ### Overall demand per experience
-
 ![Number of projects per experience](expedemand_week_20230925.png)
 
 ### Average Rate per experience
-
+Your rates are stable when you have less than 5 years of experience, then they increase.
 ![Average rate per experience](avgrate_expe_20230925.png)
 
 ### Evolution of the demand per experience
-
 ![Number of projects per experience](/nbmissions_exp_20230925.png)
 
 ## Location of the projects
