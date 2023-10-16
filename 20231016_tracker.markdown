@@ -1,0 +1,103 @@
+---
+layout: page
+permalink: "/tracker-20231016/"
+title: "Tracker"
+---
+# Demand Tracker of IT projects for freelancers, France
+*Last update: 2023-10-15*
+> Get weekly updates by joining the [telegram
+> channel](https://t.me/+3y9PJaF335UxYTg0)
+
+# If you are new read this, otherwise go straight to the charts
+## Am I the only freelancer suffering from a decreasing demand?
+
+Are you no longer receiving propositions as frequently as before? 
+Is the client's sole focus securing the lowest rate possible?
+Are projects now shorter in duration?
+And what about remote job offers? Have they decreased even more compared to pre-pandemic times? 
+
+Can we blame intermediaries for this situation? 
+Is the market overcrowded with individuals leaving their jobs and taking advantage of "chômage"?
+
+**The goal of this page is to provide you with an overview of the demand for IT freelancers in France. It may not fully reflect the market, as it is based on the information we could gather from various sources.**
+Now, let's examine the extent of the damage, who is affected, and what the current demand looks like.
+
+## Perimeter
+Date: From May 2023
+
+Projects: 23 254 job offers for freelancers in IT / Tech / Data
+
+## UN-Demand evolution
+Here I am with a so-so good news, it has been four months since we have not seen such an interetsing surge.
+Does it mean that we are out of the crisis? Not sure.
+
+![Number of projects posted per week](/nbmissions_week_20231016.png)
+
+## Rates evolution
+Since we don't have data before May 2023 and usually rates' evolutions can be observed on the yearly level, we can't conclude that much on the rates. But we actualized the chart with the latest data.
+
+![Rates' evolutions](/rates_week_20231016.png)
+
+### Top 5 highest paid projects last week
+Generalists experts?
+![top 5 highest paid](/top5paid_week_20231016.png)
+
+## Experience
+### Overall demand per experience
+56% of the projects are supposed to be for freelancers with 5 to 10 years of experience.
+![Number of projects per experience](expedemand_week_20231016.png)
+
+### Evolution of the demand per experience
+The 5 - 10 years category has been steadily increasing week over week.
+![Number of projects per experience](/nbmissions_exp_20231016png)
+
+### Average Rate per experience
+Your rates are stable when you have less than 5 years of experience, then they increase.
+![Average rate per experience](avgrate_expe_20231016.png)
+
+## Location of the projects
+### Paris IDF vs. Others
+Paris rules.
+
+![Demand per region](/nbmissions_location_20231016.png)
+
+### Evolution of remote projects
+Less remote projects :(
+
+![Demand per remote](/nbmissions_remote_20231016.png)
+
+### Evolution of the rates for remote projects
+Before October, rates were higher on average for remote jobs. The last two weeks, this trend switched.
+You get a premium for working on-site (which makes sense)
+![Rates for remote projects](/ratesremote_week_20231016.png)
+
+### Proportion of remote projects per experience
+Yes this chart needs some data labels, when you are senior to get a feer proportion of remote projects.
+![Proportion of remote per experience](/remote_experience_week_20231016.png)
+
+## SAP predicting demand
+SAP and overall demand share the same profile and dynamics, a small uncoupling happened earlier.
+![Demand for SAP ](/sapvsall_week_20231016.png)
+
+## Back-end JAVAS vs. PYTHON
+Python closing the gap this week. I don't know why, any ideas dear reader?
+![Java_python_dev_demand](/pythonvsjava_week_20231016.png)
+
+![Java_python_dev_rates](/pythonvsjava_rates_week_20231016.png)
+
+## Projects starting ASAP
+
+![ASAP Projects](/asapprojects_week_20231016.png)
+
+## Impact of English skills on the rates
+
+![English skills](/ratesenglish_week_20231016.png)
+
+## Backlog of analysis
+That's all for today :)
+Next steps: 
+- Update the data every week
+- Do some NLP on the job descriptions and titles to identify the most popular technologies and positions and their evolution (I know this one has been on the to-do for a long now)
+PS: There are some exclusive analysis posted on the [telegram channel](https://t.me/+3y9PJaF335UxYTg0)
+
+If you have any comments or ideas, [send me an e-mail](mailto:meryem@spreyd.com?subject=[Freelance IT Tracker])
