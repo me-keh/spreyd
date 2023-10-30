@@ -4,7 +4,7 @@ permalink: "/tracker-20231023/"
 title: "Tracker"
 ---
 # Demand Tracker of IT projects for freelancers, France
-*Last update: 2023-10-15*
+*Last update: 2023-10-22*
 > Get weekly updates by joining the [telegram
 > channel](https://t.me/+3y9PJaF335UxYTg0)
 
