@@ -5,7 +5,7 @@ title: SPREYD
 description: spreyd the data, don't sprinkle it.
 # author: _
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://spreyd.com" # the base hostname & protocol for your site, 
+url: "https://spreyd.com/" # the base hostname & protocol for your site, 
 #twitter_username: twitter
 #github_username:  github
 
@@ -17,6 +17,10 @@ plugins:
 
 includes_dir: _includes/img
 includes_dir: _includes
+
+include:
+  - _includes
+  - _includes/img
 
 #exclude:
 #  - _includes/img
