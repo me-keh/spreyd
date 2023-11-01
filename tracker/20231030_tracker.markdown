@@ -1,0 +1,125 @@
+---
+layout: page
+permalink: "/tracker-20231030/"
+title: "Tracker"
+---
+# Demand Tracker of IT projects for freelancers, France
+*Last update: 2023-10-30*
+> Get weekly updates by joining the [telegram
+> channel](https://t.me/+3y9PJaF335UxYTg0)
+
+# If you are new read this, otherwise go straight to the charts
+## Am I the only freelancer suffering from a decreasing demand?
+
+Are you no longer receiving propositions as frequently as before? 
+Is the client's sole focus securing the lowest rate possible?
+Are projects now shorter in duration?
+And what about remote job offers? Have they decreased even more compared to pre-pandemic times? 
+
+Can we blame intermediaries for this situation? 
+Is the market overcrowded with individuals leaving their jobs and taking advantage of "chômage"?
+
+**The goal of this page is to provide you with an overview of the demand for IT freelancers in France. It may not fully reflect the market, as it is based on the information we could gather from various sources.**
+Now, let's examine the extent of the damage, who is affected, and what the current demand looks like.
+
+## Perimeter
+Date: From May 2023
+
+Projects: 33k job offers for freelancers in IT / Tech / Data
+
+## Demand Dynamics
+For the fourth consecutive week, we've observed over 2,000 job listings per week, marking October as the strongest month on record since data collection began. This may suggest a strong and sustained demand for freelancers.
+
+
+![Demand Trajectory](/tracker/figs/20231030_missions_by_week.png)
+
+## Rate Trends
+
+Demand has seen fluctuations, yet the rates remain remarkably stable since our data tracking began, with the maximum rate hovering around 540€ and the minimum near 430€. A simulation on the platform Portageo  indicates that a daily rate of 500€ equates to a net monthly salary of approximately 4,600€.
+
+![Rate Evolution](/tracker/figs/20231030_missions_by_week_rate.png)
+
+
+## Experience Metrics
+### Aggregate Demand by Experience
+Half of the demand targets senior professionals with 5-10 years of experience, underscoring that expertise is a key driver for clients looking for freelancers. Intermediate levels also hold a significant share, likely as clients seek cost-effective alternatives. Entry-level engineers represent a minimal portion, while experts constitute less than 8%. This might indicate a limited demand for top-tier expertise or the possibility that clients use alternative channels to source them.
+![Experience-Based Demand](/tracker/figs/20231030_exp_lvl.png)
+
+### Experience-wise Demand Trends
+The 5-10 year experience bracket is still showing a consistent upward trajectory, at the expense of entry level and intermediet professionals.
+
+![Demand by Experience Over Time](/tracker/figs/20231030_missions_by_week_exp.png)
+
+### Experience-Adjusted Rates
+Rates plateau for those with less than 5 years of experience, followed by a subsequent rise. You get around 16€/day premiuum for every incremental year of experience.
+
+![Average Rates by Experience](/tracker/figs/20231030_exp_lvl_rate.png)
+
+### Most popular languages and skills
+
+Overall there's a significant emphasis on data management and programming capabilities in the current freelance market landscape.
+
+| Rank | Skill    | Percentage of jobs  |
+|------|----------|--------|
+| 1    | Data     | 19 % |
+| 2    | SQL      | 19 % |
+| 3    | SAP      | 15 % |
+| 4    | Java     | 16 %  |
+| 5    | Python   | 8 %  |
+
+## Geographic Distribution
+### Paris-IDF vs. Rest of Market
+Paris and region dominate in terms of project location. However, there's a noticeable trend towards an increasing number of job opportunities en Province.
+
+![Regional Demand](/tracker/figs/20231030_missions_by_location.png)
+
+### Remote Work Trends
+The proportion of fully remote positions remains minimal, with no evident shift in client preferences on the matter.
+
+![Remote Project Trends](/tracker/figs/20231030_missions_by_remote.png)
+
+### Remote Work Rate Dynamics
+Full remote roles pay more, but the gap is closing.
+![Remote Work Rates](/tracker/figs/20231030_missions_by_remote_rate.png)
+
+### Remote Work by Experience
+Senior professionals have most remote opportunities, while both entry-level and highly experienced professionals find limited full-remote positions.
+
+![Remote Opportunities by Experience](/tracker/figs/20231030_missions_by_remote_exp.png)
+
+## Sectoral Demand: SAP
+SAP is the still the best market predictor you can get.
+![SAP vs. General Demand](/tracker/figs/20231030_missions_by_sap.png)
+
+
+### Most popular languages and skills
+
+Overall there's a significant emphasis on data management and programming capabilities in the current freelance market landscape.
+
+| Rank | Skill    | Percentage of jobs  |
+|------|----------|--------|
+| 1    | Data     | 19 % |
+| 2    | SQL      | 19 % |
+| 3    | SAP      | 15 % |
+| 4    | Java     | 16 %  |
+| 5    | Python   | 8 %  |
+
+
+
+## Language Proficiency and Rates
+Positions requiring English proficiency carry a €26 premium on average
+
+![Impact of English Skills](/tracker/figs/20231030_missions_anglais_rate.png)
+
+However, note that 25% of job listings already specify English proficiency.
+![Share of English Jobs](/tracker/figs/20231030_missions_anglais.png)
+
+
+## Upcoming Analyses
+That concludes today's insights. Future directions:
+- Weekly data refresh
+- Advanced NLP analysis on job titles and descriptions (a long-standing item on our agenda)
+
+For exclusive analyses, subscribe to our [Telegram channel](https://t.me/+3y9PJaF335UxYTg0).
+
+For inquiries or suggestions, [contact us via email](mailto:meryem@spreyd.com?subject=[Freelance IT Tracker]).
