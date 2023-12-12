@@ -13,7 +13,7 @@ title: "Database Building"
 
 # Examples
 
-- List of PE firms focused on the lower middle market (USD 10M - 100 M) in the GCC <p style="color:red;">Under paywall</p>
+- List of PE firms focused on the lower middle market (USD 10M - 100 M) in the GCC <span style="color:red;">Under paywall</span>
 
 - Database of M&A transactions in the Agri-Tech sector in Europe (from 2015) <p style="color:red;">Under paywall</p>
 
