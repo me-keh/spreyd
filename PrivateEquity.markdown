@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: "/private-equity/"
-title: "Data services for Private Equity firms"
+title: "Private Equity"
+page_title: "Data services for Private Equity firms"
 ---
 
 [**Market Research and Analysis**](/private-equity/market-analysis)
