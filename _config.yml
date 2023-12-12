@@ -36,7 +36,8 @@ jekyll_admin:
   
 header_pages:
  #  - kollektiv.markdown
-#   - tracker.markdown
+  - privateequity.markdown
+  - tracker.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
