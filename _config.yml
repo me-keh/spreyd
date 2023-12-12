@@ -35,8 +35,8 @@ jekyll_admin:
   homepage: "posts"
   
 header_pages:
-   - kollektiv.markdown
-   - tracker.markdown
+ #  - kollektiv.markdown
+#   - tracker.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
