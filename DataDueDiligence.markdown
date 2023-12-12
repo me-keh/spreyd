@@ -23,9 +23,8 @@ Data is a critical asset for a company and should be valued during the due dilig
 
 - **Feeding AI and Data Science Applications**: The value of data is increased when used to train advanced AI and data science models, to automate tasks, enhance decision-making and identify growth potential. The effectiveness of these models is directly proportional to the quality and structure of the data.
 
-# Data Due Diligence – Our methodology and approach to assess the value of data
-
-### Our Approach for Data Due Diligence / Data Maturity Assessment
+# Our Approach for Data Due Diligence / Data Maturity Assessment
+The assessment of the company's data value is done across 6 dimensions: 
 
 - **Data Inventory**
   Catalog all data assets and sources.
@@ -45,12 +44,15 @@ Data is a critical asset for a company and should be valued during the due dilig
 - **Use Case Identification**
   Determine potential applications of data for operational and sales enhancements.
 
-### Example of output
-Data Due Diligence Risk Matrix reveals vulnerabilities that might affect the company's valuation and operations.
+# Example of deliverbale
+The Data Maturity risk matrix is one of the key deliverables of this service. 
+
+The Risk Matrix reveals vulnerabilities that might affect the company's valuation and operations.
 
 Recognizing areas where there are outdated technologies, gaps in compliance, or operational inefficiencies can indicate a potential for additional capital outlay in the post-acquisition phase.
 
-![Extract of a risk matrix from a data due diligence of an SME operating in the packaging industry, for illustrative purposes only](DataDueDil_RiskMatrix_example.png "Extract of a risk matrix from a data due diligence of an SME operating in the packaging industry, for illustrative purposes only")
+*Extract of a risk matrix from a data due diligence of an SME operating in the packaging industry, for illustrative purposes only*
+![Extract of a risk matrix from a data due diligence of an SME operating in the packaging industry, for illustrative purposes only](DataDueDil_RiskMatrix_example.png)
 
 # Other services for Private Equity firms
 [**Market Research and Analysis**](/private-equity/market-analysis)
