@@ -1,5 +1,5 @@
 ---
 layout: page
-permalink: "/fieldforce/"
-title: "Enabling Field Sales Force"
+permalink: "/private-equity/"
+title: "Data services for Private Equity firms"
 ---
