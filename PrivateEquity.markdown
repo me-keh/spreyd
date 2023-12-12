@@ -4,7 +4,7 @@ permalink: "/private-equity/"
 title: "Data services for Private Equity firms"
 ---
 
-## **Market Research and Analysis**
+## Market Research and Analysis
 Comprehensive market research to uncover industry trends and competitive landscapes. Access crucial market insights for informed decision-making and strategic investments.
 
 ## **Database Building**
