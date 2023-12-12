@@ -25,7 +25,7 @@ Data is a critical asset for a company and should be valued during the due dilig
 
 # Data Due Diligence – Our methodology and approach to assess the value of data
 
-## Our Approach for Data Due Diligence / Data Maturity Assessment
+### Our Approach for Data Due Diligence / Data Maturity Assessment
 
 - **Data Inventory**
   Catalog all data assets and sources.
@@ -45,13 +45,18 @@ Data is a critical asset for a company and should be valued during the due dilig
 - **Use Case Identification**
   Determine potential applications of data for operational and sales enhancements.
 
-## Example of output
+### Example of output
 Data Due Diligence Risk Matrix reveals vulnerabilities that might affect the company's valuation and operations.
+
 Recognizing areas where there are outdated technologies, gaps in compliance, or operational inefficiencies can indicate a potential for additional capital outlay in the post-acquisition phase.
-![Extract of a risk matrix from a data due diligence of an SME operating in the packaging industry, for illustrative purposes only](DataDueDil_RiskMatrix_example.png)
+
+![Extract of a risk matrix from a data due diligence of an SME operating in the packaging industry, for illustrative purposes only](DataDueDil_RiskMatrix_example.png "Extract of a risk matrix from a data due diligence of an SME operating in the packaging industry, for illustrative purposes only")
 
 # Other services for Private Equity firms
 [**Market Research and Analysis**](/private-equity/market-analysis)
+
 [**Database Building**](/private-equity/database-building)
+
 [**Data Maturity Assessment / Data Due Diligence**](/private-equity/data-due-diligence)
+
 [**Performance Analysis**](/private-equity/performance-analysis)
