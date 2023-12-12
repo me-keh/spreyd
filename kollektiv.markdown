@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: "/kollektiv/"
 title: "Kollektiv D."
 ---
 # Conviction
