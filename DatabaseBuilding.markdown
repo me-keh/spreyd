@@ -13,17 +13,17 @@ title: "Database Building"
 
 # Examples
 
-- List of PE firms focused on the lower middle market (USD 10M - 100 M) in the GCC <span style="color:red;">Under paywall</span>
+- List of PE firms focused on the lower middle market (USD 10M - 100 M) in the GCC (<span style="color:red;">*Under paywall*</span>)
 
-- Database of M&A transactions in the Agri-Tech sector in Europe (from 2015) <p style="color:red;">Under paywall</p>
+- Database of M&A transactions in the Agri-Tech sector in Europe (from 2015) (<span style="color:red;">*Under paywall*</span>)
 
-- Database of costume jewelery points of sales in France <p style="color:green;">Download</p>
+- Database of costume jewelry points of sales in France ( [<span style="color:green;">*Available for download*</span>](mailto:meryem@rekolt.co?subject=Database%20request%20-%20Costume%20Jewelry%20France))
 
-- Reviews and sentiment analysis for a field services company and its competitors in Colorado (USA) <p style="color:green;">Download</p>
+- Reviews and sentiment analysis for a field services company and its competitors in Colorado (USA) (<span style="color:green;">*Available for download*</span>)
 
-- Database of pizza restaurants prices in Morocco <p style="color:red;">Under paywall</p>
+- Database of pizza restaurants prices in Morocco (<span style="color:red;">*Under paywall*</span>)
 
-- Database of care repair stores in France <p style="color:green;">Download</p>
+- Database of care repair stores in France (<span style="color:green;">*Available for download*</span>)
 
 # Addressed needs
 
