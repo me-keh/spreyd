@@ -36,7 +36,7 @@ jekyll_admin:
   
 header_pages:
  #  - kollektiv.markdown
-  - privateequity.markdown
+  - PrivateEquity.markdown
   - tracker.markdown
 
 # Exclude from processing.
