@@ -7,6 +7,8 @@ title: "Tracker"
 > Get weekly updates by joining the [telegram
 > channel](https://t.me/+3y9PJaF335UxYTg0)
 
+[Tracker of Week March 25th 2024](/tracker-20240325/)
+
 [Tracker of Week March 18th 2024](/tracker-20240318/)
 
 [Tracker of Week March 11th 2024](/tracker-20240311/)
