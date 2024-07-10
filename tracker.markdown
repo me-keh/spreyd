@@ -4,8 +4,9 @@ permalink: "/tracker-freelance-it/"
 title: "Tracker"
 ---
 # Demand Tracker of IT projects for freelancers, France
-> Get weekly updates by joining the [telegram
-> channel](https://t.me/+3y9PJaF335UxYTg0)
+> Get weekly updates by joining the [telegram channel](https://t.me/+3y9PJaF335UxYTg0)
+
+[Tracker of Week July 1st 2024](/tracker-20240701/)
 
 [Tracker of Week June 24th 2024](/tracker-20240624/)
 
