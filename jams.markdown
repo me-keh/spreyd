@@ -10,7 +10,7 @@ Limited editions. Math inside each jar.
 ---
 
 ## Bernoulli — Berries
-![SPREYD Bernoulli — Berries jar](/SPREYD_Bernoulli spread_Berries.png)
+![SPREYD Bernoulli — Berries jar](/SPREYD_Bernoulli_spread_Berries.png)
 
 **Math gag:** Two outcomes. One sweet spike.  
 **Tiny formula:** `P(X=1)=p, P(X=0)=1−p`
@@ -18,7 +18,8 @@ Limited editions. Math inside each jar.
 ---
 
 ## Chebyshev — Apricot
-![SPREYD Chebyshev — Apricot jar](/SPREYD_Chebyshev spread_Apricot.png)
+![SPREYD Chebyshev — Apricot jar](/SPREYD_Chebyshev_spread_Apricot.png)
+
 
 **Math gag:** Sweetness within bounds (≤ 1/k²).  
 **Tiny formula:** `P(|X−μ| ≥ kσ) ≤ 1/k²`
@@ -26,7 +27,7 @@ Limited editions. Math inside each jar.
 ---
 
 ## Mandelbrot — Almond
-![SPREYD Mandelbrot — Almond jar](/SPREYD_Mandelbrot spread_Almond.png)
+![SPREYD Mandelbrot — Almond jar](/SPREYD_Mandelbrot_spread_Almond.png)
 
 **Math gag:** Self-similar at every spread.  
 **Tiny note:** classic Mandelbrot fractal silhouette.
@@ -34,7 +35,7 @@ Limited editions. Math inside each jar.
 ---
 
 ## Bayes — Lemon Curd
-![SPREYD Bayes — Lemon Curd jar](/SPREYD_Bayes spread_Lemon.png)
+![SPREYD Bayes — Lemon Curd jar](/SPREYD_Bayes_spread_Lemon.png)
 
 **Math gag:** Update your beliefs, zestfully.  
 **Tiny formula:** `Posterior ∝ Likelihood × Prior`
