@@ -1,44 +1,48 @@
 ---
 layout: page
 permalink: "/jams/"
-title: "Jams"
+title: "SPREYD Spreads"
 ---
-# SPREYD Jams
-*Spread the data, don’t sprinkle it.*  
+
 Limited editions. Math inside each jar.
+
+When data won’t cooperate, spread a little SPREYD.
+
+Best served with confidence intervals (and toast).
 
 ---
 
 ## Bernoulli — Berries
+### Two outcomes. One sweet spike
 ![SPREYD Bernoulli — Berries jar](/SPREYD_Bernoulli_spread_Berries.png)
 
-**Math gag:** Two outcomes. One sweet spike.  
-**Tiny formula:** `P(X=1)=p, P(X=0)=1−p`
 
 ---
 
 ## Chebyshev — Apricot
+### Sweetness within bounds (≤ 1/k²)
 ![SPREYD Chebyshev — Apricot jar](/SPREYD_Chebyshev_spread_Apricot.png)
 
 
-**Math gag:** Sweetness within bounds (≤ 1/k²).  
-**Tiny formula:** `P(|X−μ| ≥ kσ) ≤ 1/k²`
+
+
 
 ---
 
 ## Mandelbrot — Almond
+### Self-similar at every spread
 ![SPREYD Mandelbrot — Almond jar](/SPREYD_Mandelbrot_spread_Almond.png)
 
-**Math gag:** Self-similar at every spread.  
-**Tiny note:** classic Mandelbrot fractal silhouette.
+
 
 ---
 
 ## Bayes — Lemon Curd
+### Update your beliefs, zestfully
 ![SPREYD Bayes — Lemon Curd jar](/SPREYD_Bayes_spread_Lemon.png)
 
-**Math gag:** Update your beliefs, zestfully.  
-**Tiny formula:** `Posterior ∝ Likelihood × Prior`
+
+
 
 ---
 
