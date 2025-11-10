@@ -6,6 +6,8 @@ title: "Tracker"
 # Demand Tracker of IT projects for freelancers, France
 > Get weekly updates by joining the [telegram channel](https://t.me/+3y9PJaF335UxYTg0)
 
+[Tracker of Week November 3rd 2025](/tracker-20251103/)
+
 [Tracker of Week October 27th 2025](/tracker-20251027/)
 
 [Tracker of Week October 20th 2025](/tracker-20251020/)
